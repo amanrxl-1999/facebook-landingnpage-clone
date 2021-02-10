@@ -1,0 +1,62 @@
+.row{
+    background-color: #F0F2F5;
+    
+ 
+/*    height: 344px;*/
+    
+/*    background-color:white;*/
+/*
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}*/
+    
+}
+
+
+.inputs{
+ color: #FFFFFF;
+
+ margin-top: 90px;
+    height: 340px;
+    width: 390px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input{
+
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 50px;
+    width: 362px;
+    border-radius: 5px;
+    border-color:gray;
+    border-style: solid;
+    box-sizing: border-box;
+    padding-left: 15px;
+    
+}
+button{
+     margin: 16px;
+    height: 40px;
+    width: 362px;
+    
+}
+.logo{
+    margin-top: 160px;
+    margin-left: 300px;
+    
+}
+h2{
+    color: #1877F2;
+    font-weight: 800;
+    font-size: 40px;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    background-image:url(fbfotter.png);
+}
+
